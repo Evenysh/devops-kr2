@@ -1,3 +1,4 @@
+# KR2: Razina
 import os
 import socket
 
